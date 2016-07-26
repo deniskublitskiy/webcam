@@ -42,10 +42,12 @@ After installing run ```npm run pack:win``` to build app for all platforms.
 ![](/screenshots/6.png)
 
 ## Build with
-* Webstorm
+* WebStorm
+* Node JS
+* Express
 * Webpack and babel
 * React
-* React Router
+* React-Router
 * Redux
 * Socket IO
 * WebRTC
