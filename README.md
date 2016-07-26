@@ -1,3 +1,4 @@
+# Webcam - messaging and WebRTC video calling tool
 ## Getting started
 ### Installing
 Run ```npm install``` to install project dependencies
@@ -40,3 +41,11 @@ After installing run ```npm run pack:win``` to build app for all platforms.
 #### Incoming call
 ![](/screenshots/6.png)
 
+## Build with
+* Webstorm
+* Webpack and babel
+* React
+* React Router
+* Redux
+* Socket IO
+* WebRTC
