@@ -41,6 +41,9 @@ After installing run ```npm run pack:win``` to build app for all platforms.
 #### Incoming call
 ![](/screenshots/6.png)
 
+#### Video translation
+![](/screenshots/7.png)
+
 ## Build with
 * WebStorm
 * Node JS
